@@ -56,4 +56,4 @@ Ejecutar la app en un emulador o dispositivo real.
 
 Generar el archivo APK
 
-La APK se las comparto por el correo también para su revisión o prueba.
+## La APK se las comparto por el correo también para su revisión o prueba.
