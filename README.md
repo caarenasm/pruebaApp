@@ -16,7 +16,9 @@ Antes de clonar y ejecutar este proyecto, asegúrate de tener lo siguiente insta
 
 
 node -v
+
 npm -v
+
 ionic -v
 
 ## 🚀 Clonar y abrir el proyecto
@@ -41,6 +43,7 @@ ionic serve
 ## 1. Añadir la plataforma Android
 
 ionic build
+
 npx cap add android (genera la carpeta android)
 
 ## 2. Abrir en Android Studio
